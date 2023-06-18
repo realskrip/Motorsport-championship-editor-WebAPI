@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Motorsport championship editor (MCE) WebAPI", "Motorsport championship editor (MCE) WebAPI\Motorsport championship editor (MCE) WebAPI.csproj", "{6E01B4B8-9AB5-4100-ADED-5C63BBD81D0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E01B4B8-9AB5-4100-ADED-5C63BBD81D0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E01B4B8-9AB5-4100-ADED-5C63BBD81D0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E01B4B8-9AB5-4100-ADED-5C63BBD81D0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E01B4B8-9AB5-4100-ADED-5C63BBD81D0F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62F908E4-CB35-4AA8-AE84-7A535ED04D6F}
+	EndGlobalSection
+EndGlobal
